@@ -23,7 +23,7 @@ public class Readexcel1xls {
         String val2=cell1.getStringCellValue();
         System.out.println(val2);
 		String val=cell.getStringCellValue();
-		System.out.println(val);
+		System.out.println(val);;
 		//Rows
 		int rows=sheet.getLastRowNum();
 		System.out.println(rows);
